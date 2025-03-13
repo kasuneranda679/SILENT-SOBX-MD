@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "SILENT-SOBX-MD~WRZAhRRA#6zUw06JIobxHK5q-yPRg8SIc8KzO_F7kKAZInf3Hx2g",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
@@ -16,7 +16,16 @@ module.exports = {
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M SILENT-SOBX-MD WHATSAPP BOT 😊♻️",
+    ALIVE_MSG: process.env.ALIVE_MSG || "> 🐰♥️✨*`_ 𝐖ᴇʟᴄᴏᴍᴇ ᴍʏ ᴄʜᴀᴛ ʙᴀʙʜ _`* 🙈♥️🔏
+
+> *❤️🐣සෙ̶ව් දා̶පි̶ය̶ ගු̶ටි̶ නොකා̶🥵💗✨ /ᴀ.*
+
+*" `ɴ ᴀ ᴍ ᴇ /. `පිහු ` " 💗🌻.`*
+*" `ꜰ ʀ ᴏ ᴍ /. `හොරණ " 🐥🤍.`*
+*" `ගර්ස්/🥵  /. 🌻.`*
+*" `ᴀ ɢ ᴇ /.  999+ 💗🫶🏻 /.`*
+
+*`🍁⃝⃞🍁❨ඔයාගෙ නම ගම කියන්න සෝස මල💗🥺ᥫ᭡වෙල්පර් දාන්න පොටෝඑවන්න🍁⃝🍁`* 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
@@ -29,7 +38,7 @@ module.exports = {
     OWNER_REACT: process.env.OWNER_REACT || "true",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂`",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺~_*🌞⃞ͫͮͬͯ͢͡🕊️|:: මගෙ ලමයි ටික මට ආදරයි මැසේජ් කරමු කැම්මැලී බබලා::|😽⃞❤‍🩹*_~`",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
